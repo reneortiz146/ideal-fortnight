@@ -12,4 +12,7 @@ El Objetivo de este proyecto es:
 El enlace a este archivo README es:
 [Enlace](https://github.com/reneortiz146/ideal-fortnight/edit/main/README.md)
 
+El enlace para ver los diferentes formatos para editar el README: 
+[Aqui](https://www.markdownguide.org/cheat-sheet/)
+
 ![logo del ITCH2](image.jpg)
